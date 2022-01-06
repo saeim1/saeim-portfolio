@@ -1,0 +1,108 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.felexible-container{
+    display: flex;
+}
+.main-padding{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.blue-text{
+    color: #3498db;
+}
+.pmtb{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.ptb{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.first-bannar{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.banner-info{
+width: 50%;
+}
+.banner-info h1{
+    font-size: 50px;
+}
+.banner-info p{
+    margin-top: 20px;
+}
+.banner-img{
+    width: 50%;
+}
+.banner-img img{
+    width: 70%;
+    margin: auto;
+    display: block;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #3498db;
+    color: white;
+    font-weight: 400;
+    padding: 12px;
+    border-radius: 5px;
+}
+.my-mission-area h1{
+    font-size: 58px;
+    text-align: center;
+}
+.mission-item{
+    width: 32%;
+    padding: 25px;
+    margin: 1%;
+    border-radius: 5%;
+}
+.mission-item h3{
+    font-size: 24px;
+}
+.mission-item img{
+    width: 150px;
+
+}
+#misson-bg-color{
+    background-color: #edf5f6;
+}
+#visson-bg-color{
+    background-color: #fff4d6;
+}
+#goals-bg-color{
+background-color: #ffeeee;
+}
+.dwl{
+    width: 40%;
+}
+.dwl img{
+    width: 80%;
+}
+.dwl-text{
+width: 70%;
+}
+.mh-text{
+    font-size: 36px;
+}
+#cm-img{
+    width: 40%;
+    padding-left: 55px;
+}
+#cm-img img{
+    width: 80%;
+}
+#cm-text{
+    width: 60%;
+}
+footer{
+    background: #000000;
+    color: #fff;
+    text-align: center ;
+    padding: 15px 0px;
+}
+footer p {
+    margin:0;
+}
